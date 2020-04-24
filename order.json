@@ -1,0 +1,125 @@
+{
+  "order": [
+    {
+      "_id": "5ea142b09601b85dc45c17df",
+      "id": "5ef344",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"67d8d1\",\"f8116c\",\"4f5f19\",\"87d4df\",\"75cd6d\"]",
+      "price": 191,
+      "status": 0,
+      "__v": 0
+    },
+    {
+      "_id": "5ea142ce9601b85dc45c17e0",
+      "id": "f476bf",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"67d8d1\",\"4f5f19\",\"87d4df\",\"75cd6d\",\"c9186b\"]",
+      "price": 1353,
+      "status": 4,
+      "__v": 0
+    },
+    {
+      "_id": "5ea14dd09601b85dc45c17e1",
+      "id": "2ac7e9",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"67d8d1\",\"4f5f19\",\"87d4df\",\"75cd6d\",\"c9186b\",\"d9d977\"]",
+      "price": 1390,
+      "status": 1,
+      "__v": 0
+    },
+    {
+      "_id": "5ea192121e2380437c069000",
+      "id": "4bee22",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"67d8d1\",\"4f5f19\",\"87d4df\",\"75cd6d\",\"c9186b\",\"d9d977\",\"f8116c\",\"9e5f44\",\"797647\",\"d1f725\",\"277989\"]",
+      "price": 10001500,
+      "status": 0,
+      "__v": 0
+    },
+    {
+      "_id": "5ea192151e2380437c069001",
+      "id": "74c1a7",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"67d8d1\",\"4f5f19\",\"87d4df\",\"75cd6d\",\"c9186b\",\"d9d977\",\"f8116c\",\"9e5f44\",\"797647\",\"d1f725\",\"277989\"]",
+      "price": 10001500,
+      "status": 2,
+      "__v": 0
+    },
+    {
+      "_id": "5ea1b136c3a3ee41a81a2bae",
+      "id": "0b1638",
+      "email": "adas@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"d9d977\",\"f8116c\",\"9e5f44\",\"797647\",\"d1f725\",\"277989\"]",
+      "price": 10000122,
+      "status": 2,
+      "__v": 0
+    },
+    {
+      "_id": "5ea1e89ec3a3ee41a81a2bb2",
+      "id": "d05d8a",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"d9d977\",\"f8116c\",\"9e5f44\",\"797647\",\"d1f725\",\"277989\"]",
+      "price": 10000122,
+      "status": 0,
+      "__v": 0
+    },
+    {
+      "_id": "5ea1e8b3c3a3ee41a81a2bb3",
+      "id": "3d7c29",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"d9d977\",\"797647\",\"d1f725\",\"277989\"]",
+      "price": 87,
+      "status": 4,
+      "__v": 0
+    },
+    {
+      "_id": "5ea1e929c3a3ee41a81a2bb4",
+      "id": "4974d5",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"d9d977\",\"797647\",\"d1f725\",\"277989\"]",
+      "price": 97,
+      "status": 2,
+      "__v": 0
+    },
+    {
+      "_id": "5ea1e9f3c3a3ee41a81a2bb5",
+      "id": "7a8f27",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "Rạch bà tơ - nhà 5 Đình (8 Thẹo)\nsố 372, ấp Hoà Bình",
+      "idproduct": "[\"797647\"]",
+      "price": 10,
+      "status": 1,
+      "__v": 0
+    },
+    {
+      "_id": "5ea1f3edc3a3ee41a81a2bb6",
+      "id": "0ba907",
+      "email": "ghecuaphuc@gmail.com",
+      "phone": "0347766101",
+      "address": "jkj",
+      "idproduct": "[\"e88e1d\",\"67d8d1\"]",
+      "price": 65,
+      "status": 0,
+      "__v": 0
+    }
+  ]
+}
