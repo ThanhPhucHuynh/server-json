@@ -15,7 +15,6 @@
     "lowdb": "^1.0.0"
   },
   "scripts": {
-    "start": "node index.js",
-    "build": "webpack"
+    "start": "node index.js"
   }
 }
